@@ -1,0 +1,22 @@
+body {
+    font-family: Helvetica;
+    font-size: 18px;
+}
+
+h1 {
+    color: #d87620;
+}
+
+label {
+    display: block;
+    padding: 5px;
+}
+
+button {
+    margin: 10px;
+    background-color: #b7381f;
+    border-color: rgb(16, 73, 16);
+    border-width: 5px;
+    padding: 10px 40px;
+    font-size: 1.2em;
+}
